@@ -1,0 +1,62 @@
+Order_ID,Order_Date,Country,Product,Category,Quantity,Unit_Price,Discount,Sales
+ORD0001,2026-08-22,Japan,Microwave,Home & Furniture,4.0,12000,5.0,45600.0
+ORD0002,2026-08-07,India,Packaged Food,Grocery,4.0,500,0.0,2000.0
+ORD0003,2026-08-20,Malaysia,Packaged Food,Grocery,5.0,500,15.0,2125.0
+ORD0004,2026-08-07,,Packaged Food,Grocery,5.0,500,5.0,2375.0
+ORD0005,2026-08-27,Taiwan,Sports Shoes,Other Essentials,5.0,3000,0.0,15000.0
+ORD0006,2026-08-29,Taiwan,Table Lamp,Home & Furniture,2.0,1800,0.0,3600.0
+ORD0007,2026-08-19,Japan,Office Chair,Home & Furniture,2.0,7500,5.0,14250.0
+ORD0008,2026-08-18,Taiwan,Packaged Food,Grocery,4.0,500,0.0,2000.0
+ORD0009,2026-08-29,Taiwan,Kids' Shoes,Fashion,,1800,5.0,3420.0
+ORD0010,2026-08-14,Japan,Sports Shoes,Other Essentials,4.0,3000,0.0,12000.0
+ORD0011,2026-08-07,Singapore,Book,Other Essentials,1.0,600,0.0,600.0
+ORD0012,2026-08-24,Taiwan,Laptop,Mobiles & Electronics,5.0,55000,15.0,233750.0
+ORD0013,2026-08-05,Taiwan,Snacks,Grocery,3.0,300,0.0,900.0
+ORD0014,2026-08-08,Japan,Snacks,Grocery,3.0,300,15.0,765.0
+ORD0015,2026-08-24,Taiwan,Office Chair,Home & Furniture,4.0,7500,15.0,25500.0
+ORD0016,2026-08-22,Singapore,Headphones,Mobiles & Electronics,2.0,3000,,5400.0
+ORD0017,2026-08-07,India,Handbag,Fashion,5.0,2200,10.0,9900.0
+ORD0018,2026-08-29,Taiwan,Beverages,Grocery,4.0,150,0.0,600.0
+ORD0019,2026-08-02,India,Book,Other Essentials,5.0,600,15.0,2550.0
+ORD0020,2026-08-10,Japan,Microwave,Home & Furniture,3.0,12000,10.0,32400.0
+ORD0021,2026-08-20,Singapore,Cookware Set,Home & Furniture,5.0,4500,5.0,21375.0
+ORD0022,2026-08-02,Singapore,Watch,Fashion,4.0,3500,10.0,12600.0
+ORD0023,2026-08-26, india ,Beauty Kit,Other Essentials,1.0,1500,5.0,1425.0
+ORD0024,2026-08-23,India,Office Chair,Home & Furniture,2.0,7500,10.0,13500.0
+ORD0025,2026-08-14,India,Packaged Food,Grocery,2.0,500,0.0,1000.0
+ORD0026,2026-08-09,Taiwan,Women's Dress,Fashion,4.0,2500,5.0,9500.0
+ORD0027,2026-08-02,Singapore,Table Lamp,Home & Furniture,3.0,1800,5.0,5130.0
+ORD0028,2026-08-21,Japan,Book,Other Essentials,4.0,600,0.0,2400.0
+ORD0029,2026-08-02,TAIWAN,Men's T-Shirt,Fashion,5.0,1200,0.0,6000.0
+ORD0030,2026-08-26,Malaysia,Men's T-Shirt,Fashion,5.0,1200,5.0,5700.0
+ORD0031,2026-08-27,Japan,Men's T-Shirt,Fashion,4.0,1200,0.0,4800.0
+ORD0032,2026-08-10,Singapore,Women's Dress,fashion,1.0,2500,5.0,2375.0
+ORD0033,2026-08-02,Malaysia,Office Chair,Home & Furniture,3.0,7500,0.0,22500.0
+ORD0034,2026-08-21,Malaysia,Sports Shoes,Other Essentials,3.0,3000,5.0,8550.0
+ORD0035,2026-08-08,Taiwan,Microwave,Home & Furniture,4.0,12000,0.0,48000.0
+ORD0036,2026-08-08,Taiwan,Women's Dress, GROCERY ,2.0,2500,10.0,4500.0
+ORD0037,2026-08-24,Singapore,Snacks,Grocery,1.0,300,5.0,285.0
+ORD0038,2026-08-15,Malaysia,Camera,Mobiles & Electronics,3.0,40000,10.0,108000.0
+ORD0039,2026-08-11,India,Beauty Kit,Other Essentials,3.0,1500,0.0,4500.0
+ORD0040,2026-08-02,India,Microwave,Home & Furniture,2.0,12000,5.0,22800.0
+ORD0041,2026-08-09,India,Watch,Fashion,1.0,3500,0.0,3500.0
+ORD0042,2026-08-08,Japan,Microwave,Home & Furniture,1.0,12000,10.0,10800.0
+ORD0043,2026-08-03,Japan,Laptop,Mobiles & Electronics,5.0,55000,15.0,233750.0
+ORD0044,2026-08-19,Japan,Cookware Set,Home & Furniture,4.0,4500,10.0,16200.0
+ORD0045,2026-08-12,Taiwan,Headphones,Mobiles & Electronics,3.0,3000,0.0,9000.0
+ORD0046,2026-08-10,India,Packaged Food,Grocery,1.0,500,10.0,450.0
+ORD0047,2026-08-30,Taiwan,Cookware Set,Home & Furniture,5.0,4500,0.0,22500.0
+ORD0048,2026-08-22,India,Headphones,Mobiles & Electronics,2.0,3000,0.0,
+ORD0049,2026-08-15,Taiwan,Cookware Set,Home & Furniture,2.0,4500,0.0,9000.0
+ORD0050,2026-08-26,Japan,Table Lamp,Home & Furniture,1.0,1800,10.0,1620.0
+ORD0051,2026-08-14,Singapore,Women's Dress,Fashion,1.0,2500,10.0,2250.0
+ORD0052,2026-08-08,Japan,Beverages,Grocery,3.0,150,10.0,405.0
+ORD0053,2026-08-31,Malaysia,Book,Other Essentials,3.0,600,5.0,1710.0
+ORD0054,2026-08-07,India,Handbag,Fashion,3.0,2200,15.0,5610.0
+ORD0055,2026-08-02,Taiwan,Table Lamp,Home & Furniture,5.0,1800,10.0,8100.0
+ORD0056,2026-08-26,,Kids' Shoes,Fashion,1.0,1800,15.0,1530.0
+ORD0057,2026-08-18,India,Table Lamp,Home & Furniture,5.0,1800,5.0,8550.0
+ORD0058,2026-08-30,Japan,Cookware Set,Home & Furniture,3.0,4500,5.0,12825.0
+ORD0059,2026-08-30,Taiwan,Tablet,Mobiles & Electronics,5.0,18000,0.0,90000.0
+ORD0060,2026-08-03,Taiwan,Book,Other Essentials,4.0,600,0.0,2400.0
+ORD0002,2026-08-07,India,Packaged Food,Grocery,4.0,500,0.0,2000.0
