@@ -22,10 +22,10 @@ pip install pandas numpy
 Run the following command from the project root folder:
 python src/analysis.py
 
-### Summary of the Analysis
+## Summary of the Analysis
 The project analyzes sales data using Pandas and NumPy through a structured data analysis process. The dataset was inspected and cleaned by handling missing values, removing duplicate records, correcting data types, and standardizing date and text fields. The analysis then evaluated sales performance across countries, categories, and products, along with key statistical measures such as mean, median, and standard deviation to identify meaningful business trends.
 
-### Key Insights
+## Key Insights
 -Taiwan had the highest sales value among all countries, with total sales of 497,675.0.
 -Laptop was the top product according to sales.
 -Packaged Food was the top product according to quantity sold.
